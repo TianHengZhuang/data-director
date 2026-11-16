@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0-alpha.5](https://github.com/data-director-agent/data-director/compare/inventory-v0.1.0-alpha.4...inventory-v0.1.0-alpha.5) (2026-11-16)
+
+
+### Features
+
+* **inventory:** one inventory of several folders, each updated on its own ([#846](https://github.com/data-director-agent/data-director/issues/846)) ([44a27f7](https://github.com/data-director-agent/data-director/commit/44a27f7c7887c00f2e2ec874d7b25e880de677b6))
+
 ## [0.1.0-alpha.4](https://github.com/data-director-agent/data-director/compare/inventory-v0.1.0-alpha.3...inventory-v0.1.0-alpha.4) (2026-11-07)
 
 

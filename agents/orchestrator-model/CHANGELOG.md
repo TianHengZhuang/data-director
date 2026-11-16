@@ -1,5 +1,24 @@
 # Changelog
 
+## [0.1.1-alpha.5](https://github.com/data-director-agent/data-director/compare/agent-orchestrator-model-v0.1.1-alpha.4...agent-orchestrator-model-v0.1.1-alpha.5) (2026-11-16)
+
+
+### Features
+
+* **app:** let researchers rename projects and the orchestrator name untitled ones ([#678](https://github.com/data-director-agent/data-director/issues/678)) ([1c3d875](https://github.com/data-director-agent/data-director/commit/1c3d875eb0339328bb0556c1997d02ad99f117e7))
+* **harness:** carry a steward's model map in the grant ([#859](https://github.com/data-director-agent/data-director/issues/859)) ([ce17ba0](https://github.com/data-director-agent/data-director/commit/ce17ba0a1d7a21c852ba5acdc7b153a08b2e0c87))
+* **harness:** mint a model grant for each model-backed invocation ([#817](https://github.com/data-director-agent/data-director/issues/817)) ([6042098](https://github.com/data-director-agent/data-director/commit/604209892028330c5eee74f58f04f15485ce4ee1))
+* Implement entry point intake handling to skip redundant questions ([#770](https://github.com/data-director-agent/data-director/issues/770)) ([10b3483](https://github.com/data-director-agent/data-director/commit/10b3483aefdd38fd15da6b6eefcbcd8aaa646ee6))
+* let agents ask a series of questions answered one at a time ([#739](https://github.com/data-director-agent/data-director/issues/739)) ([5332215](https://github.com/data-director-agent/data-director/commit/5332215e8f050dcf3b61fdccb11b63ad436e6d92))
+* **sdk:** model providers beyond anthropic for the advisors ([#835](https://github.com/data-director-agent/data-director/issues/835)) ([8adfa87](https://github.com/data-director-agent/data-director/commit/8adfa870e8a277dd017f165ba16d8709ffa382ca))
+* **sdk:** record whose model account paid for each call ([#825](https://github.com/data-director-agent/data-director/issues/825)) ([8ce3e5d](https://github.com/data-director-agent/data-director/commit/8ce3e5da293c6086b6edc1eafc46fd34a2fcd60d))
+* **sdk:** tool calling in the model seam, so the orchestrator runs on any provider ([#837](https://github.com/data-director-agent/data-director/issues/837)) ([d88acfc](https://github.com/data-director-agent/data-director/commit/d88acfc5f50852ad397a7f0f214b4bc77c821d75))
+
+
+### Bug Fixes
+
+* **orchestration:** record the entry point Data Director works out ([#706](https://github.com/data-director-agent/data-director/issues/706)) ([7781b37](https://github.com/data-director-agent/data-director/commit/7781b3738ba64bdda89af7d225ba0e1d4a970438))
+
 ## [0.1.1-alpha.4](https://github.com/data-director-agent/data-director/compare/agent-orchestrator-model-v0.1.1-alpha.3...agent-orchestrator-model-v0.1.1-alpha.4) (2026-11-07)
 
 
